@@ -40,3 +40,5 @@ var props = {
 var element = /*#__PURE__*/React.createElement("div", props);
 ReactDOM.createRoot(rootElement).render(element);
 ```
+
+Attribution: https://epicreact.dev/modules/react-fundamentals/
